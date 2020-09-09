@@ -1,4 +1,4 @@
-package java8.feature.lambda;
+package java8.feature.lambda.entity;
 
 public class Product {
 
